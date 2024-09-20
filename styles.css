@@ -11,6 +11,10 @@ body {
   transition: .5s;
 }
 
+body h1 {
+  margin-left: 5px;
+}
+
 /* Containers */
 
 .main-container {
